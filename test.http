@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/sign
+content-type: application/json
+
+{
+    "payload": {
+        "sub": "321",
+        "name": "Matheesha" },
+    "alg": "HS512"
+}
