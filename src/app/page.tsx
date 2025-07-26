@@ -207,14 +207,14 @@ export default function HomePage() {
       <div className='flex items-center bottom-0 left-0 fixed w-screen text-[10px] sm:text-[10px] md:text-[16px] h-fit p-3 border-t bg-white border-gray-200'>
         <p className='w-fit'>Made by <a href='https://github.com/ItsMatheesha' className='text-[#2663fa]'>Matheesha</a></p>
         <div className='flex space-x-3 justify-end items-center ml-auto'>
-        <p className='text-gray-500'>Built with <a href='https://react.dev/' className='text-[#2663fa]'>React</a>, <a href='https://nextjs.org/' className='text-[#2663fa]'>Next.js</a>, <a href='https://www.npmjs.com/package/@monaco-editor/react' className='text-[#2663fa]'>Monaco Editor</a>, and <a href='https://github.com/4zeroiv/jwt' className='text-[#2663fa]'>JWT library</a> by <a href='https://github.com/4zeroiv' className='text-[#2663fa]'>4zeroiv</a></p>
-          <a href='https://github.com/4zeroiv/jwt'>
+        <p className='text-gray-500'>Built with <a href='https://react.dev/' className='text-[#2663fa]'>React</a>, <a href='https://nextjs.org/' className='text-[#2663fa]'>Next.js</a>, <a href='https://www.npmjs.com/package/@monaco-editor/react' className='text-[#2663fa]'>Monaco Editor</a>, and <a href='https://github.com/4zeroiv/jwt' className='text-[#2663fa]'>JWT library</a> by <a href='https://github.com/ItsMatheesha' className='text-[#2663fa]'>Matheesha</a></p>
+          <a href='https://github.com/ItsMatheesha/jwt'>
             <img src='https://skills.syvixor.com/api/icons?i=github' alt='github' width='40px' height='40px' />
           </a>
-          <a href='https://www.npmjs.com/package/@4zeroiv/jwt'>
+          <a href='https://www.npmjs.com/package/@matheesha/jwt'>
             <img src='https://skills.syvixor.com/api/icons?i=npm' alt='github' width='40px' height='40px' />
           </a>
-          <a href='https://jsr.io/@4zeroiv/jwt'>
+          <a href='https://jsr.io/@matheesha/jwt'>
             <img src='https://skills.syvixor.com/api/icons?i=jsr' alt='github' width='40px' height='40px' />
           </a>
         </div>
